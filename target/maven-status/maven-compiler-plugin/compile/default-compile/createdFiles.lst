@@ -1,0 +1,10 @@
+movieapp/service/IMovieService.class
+movieapp/MovieappApplication.class
+movieapp/dto/MovieDetail.class
+movieapp/dto/MovieStatistics.class
+movieapp/config/BeanUtils.class
+movieapp/controller/MovieController.class
+movieapp/service/impl/jpa/MovieServiceJpa.class
+movieapp/persistence/entity/Movie.class
+movieapp/persistence/repository/MovieRepository.class
+movieapp/dto/MovieSimple.class

@@ -1,0 +1,10 @@
+/home/vantoine/dev/projetpoewdv/src/main/java/movieapp/service/impl/jpa/MovieServiceJpa.java
+/home/vantoine/dev/projetpoewdv/src/main/java/movieapp/MovieappApplication.java
+/home/vantoine/dev/projetpoewdv/src/main/java/movieapp/controller/MovieController.java
+/home/vantoine/dev/projetpoewdv/src/main/java/movieapp/dto/MovieSimple.java
+/home/vantoine/dev/projetpoewdv/src/main/java/movieapp/persistence/entity/Movie.java
+/home/vantoine/dev/projetpoewdv/src/main/java/movieapp/dto/MovieDetail.java
+/home/vantoine/dev/projetpoewdv/src/main/java/movieapp/persistence/repository/MovieRepository.java
+/home/vantoine/dev/projetpoewdv/src/main/java/movieapp/config/BeanUtils.java
+/home/vantoine/dev/projetpoewdv/src/main/java/movieapp/service/IMovieService.java
+/home/vantoine/dev/projetpoewdv/src/main/java/movieapp/dto/MovieStatistics.java

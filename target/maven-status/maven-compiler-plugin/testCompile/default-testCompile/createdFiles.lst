@@ -1,0 +1,7 @@
+movieapp/persistence/TestMovieRepository.class
+testing/Assertions.class
+movieapp/persistence/provider/MovieProvider.class
+testing/persistence/DatabaseUtils.class
+movieapp/controller/JsonProvider.class
+movieapp/entity/TestMovie.class
+testing/CollectionFactory.class
